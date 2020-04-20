@@ -2,3 +2,4 @@ Project ideas:
 - email
 - calendar
 - alerts
+- joke of the day
