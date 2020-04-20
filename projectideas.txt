@@ -3,3 +3,5 @@ Project ideas:
 - calendar
 - alerts
 - joke of the day
+- Comic of the day
+- bird sounds
